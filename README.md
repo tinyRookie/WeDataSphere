@@ -42,9 +42,9 @@ Consists of the development&exploration tool(Scriptis), a graphical workflow sch
 
 ## Core Advantages 
 
-- Sufficient application tools
+- Sufficient application tools 
 
-  The 3 layers of platform tools, data tools and application tools plus the powerful machine learning capability, build up an enterprise big data solution.
+  The 3 layers of platform tools, data tools and application tools plus the powerful machine learning capability, build up an enterprise big data solution. some
 
 - Synchronization across clusters among 3 datacenters in 2 cities
 
